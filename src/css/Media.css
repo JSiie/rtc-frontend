@@ -1,0 +1,25 @@
+.media-bridge{
+  /*flex-direction: 'row';
+  justify-content: 'flex-end';
+  align-items: 'center';*/
+}
+
+.remote-video{
+  position: absolute;
+  top: 0;
+  left: 20vw;
+  background-color: #d6e3f3;
+  height: 100vh;
+  width: 80vw;
+  color: white;
+}
+
+.local-video {
+    position: absolute;
+    bottom: 1vh;
+    right: 0.5vw;
+    background-color: #d6e3f3;
+    max-height: 25vh;
+    max-width: 20vw;
+    color: white;
+  }
